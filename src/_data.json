@@ -1,0 +1,26 @@
+{
+    "index": {
+        "title": "AlltagsEngel e.V.",
+        "description": "Eine gemeinnützige Organisation aus Dortmund"
+    },
+    "presse": {
+        "title": "Presse",
+        "description": "AlltagsEngel e.V. - Eine gemeinnützige Organisation aus Dortmund"
+    },
+    "projekte": {
+        "title": "Projekte",
+        "description": "Projekte der AlltagsEngel - Eine gemeinnützige Organisation aus Dortmund"
+    },
+    "kontakt": {
+        "title": "Kontakt",
+        "description": "Kontakt zu AlltagsEngel e.V."
+    },
+    "impressum": {
+        "title": "Impressum",
+        "description": "AlltagsEngel e.V. Impressum"
+    },
+    "datenschutz": {
+        "title": "Datenschutz",
+        "description": "AlltagsEngel e.V. Datenschutz"
+    }
+}
