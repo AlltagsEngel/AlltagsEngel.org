@@ -22,5 +22,9 @@
     "datenschutz": {
         "title": "Datenschutz",
         "description": "AlltagsEngel e.V. Datenschutz"
+    },
+    "ueber-uns": {
+        "title": "Über uns",
+        "description": "AlltagsEngel e.V. Über uns"
     }
 }
